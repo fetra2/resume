@@ -1,0 +1,3 @@
+resume serve
+resume serve --theme kendall
+npm i jsonresume-theme-kendall 

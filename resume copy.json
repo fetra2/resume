@@ -1,0 +1,187 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Fetra Rasolonjatovo",
+    "label": "Web developer",
+    "image": "",
+    "email": "rasolonjatovofetra@gmail.com",
+    "phone": "(+261)332998321",
+    "url": "",
+    "summary": "I have been working as a PHP web developer for several years, gaining extensive experience in web development. Recently, I have been working on projects using Python and JavaScript for about two years. My expertise encompasses the development cycle from developing responsive web applications to deploying them. I am committed to ensuring the best user experience across various devices. I am seeking a Python/React developer position.",
+    "location": {
+      "address": "Logement 11 Cité USA Ambohipo",
+      "postalCode": "101",
+      "city": "Antananarivo",
+      "countryCode": "MG",
+      "region": "Madagascar"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Fetra Rasolonjatovo",
+        "url": "linkedin.com/in/fetra-rasolonjatovo-742592250"
+      },
+      {
+        "network": "GitHub",
+        "username": "Fetra Rasolonjatovo",
+        "url": "github.com/fetra2"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Paositra Malagasy",
+      "location": "Antananarivo, Madagascar",
+      "description": "Postal Service company",
+      "position": "Developer",
+      "url": "paositramalagasy.mg",
+      "startDate": "2017-07",
+      "endDate": "",
+      "summary": "Paositra Malagasy is the national postal service of Madagascar. It is responsible for providing postal services and delivery of mail and packages within the country and to international destinations.",
+      "highlights": [
+        "Developed responsive web applications using technologies related to Php, JavaScript org Python, ensuring user experience across devices.",
+        "Worked on front and backend development to maintain application functionality.",
+        "Designed and developed the database structure and schema using modeling techniques.",
+        "Collaborated with designers to implement UI designs and improve frontend aesthetics.",
+        "Deployed applications to both testing and production environments, ensuring seamless transitions from development to production.",
+        "Assisted developers in coding development tasks.",
+        "Integrated APIs.",
+        "Developed APIs."
+      ]
+    },
+    {
+      "name": "Paositra Malagasy",
+      "location": "Antananarivo, Madagascar",
+      "description": "Postal Service company",
+      "position": "Accountant",
+      "url": "paositramalagasy.mg",
+      "startDate": "2016-08",
+      "endDate": "2017-06",
+      "summary": "Paositra Malagasy is the national postal service of Madagascar. It is responsible for providing postal services and delivery of mail and packages within the country and to international destinations.",
+      "highlights": [
+        "Managed day-to-day financial operations.",
+        "Implemented SAGE Compta to streamline accounting operations, ensuring accurate recordkeeping, generating precise financial reports, and enhancing overall financial management."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professionnal Proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Full Professionnal Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Fetra Rasolonjatovo",
+    "label": "Web developer",
+    "image": "",
+    "email": "rasolonjatovofetra@gmail.com",
+    "phone": "(+261)332998321",
+    "url": "",
+    "summary": "I bring extensive experience as a web developer, with a track record spanning several years. Over the last two years, I've transitioned my focus from PHP to Python and JavaScript, contributing to various projects. My proficiency covers the entire development lifecycle. I am seeking a Python/React developer position.",
+    "location": {
+      "address": "Logement 11 Cité USA Ambohipo",
+      "postalCode": "101",
+      "city": "Antananarivo",
+      "countryCode": "MG",
+      "region": "Madagascar"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Fetra Rasolonjatovo",
+        "url": "https://linkedin.com/in/fetra-rasolonjatovo-742592250"
+      },
+      {
+        "network": "GitHub",
+        "username": "Fetra Rasolonjatovo",
+        "url": "https://github.com/fetra2"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Paositra Malagasy",
+      "location": "Antananarivo, Madagascar",
+      "description": "Postal Service company",
+      "position": "Developer",
+      "url": "https://www.paositramalagasy.mg",
+      "startDate": "2017-07",
+      "endDate": "",
+      "summary": "Paositra Malagasy is the national postal service of Madagascar. It is responsible for providing postal services and delivery of mail and packages within the country and to international destinations.",
+      "highlights": [
+        "Developed responsive web applications ensuring user experience across devices.",
+        "Worked on front and backend development to maintain application functionality.",
+        "Designed and developed the database structure and schema.",
+        "Collaborated with designers to implement UI designs and improve frontend aesthetics.",
+        "Deployed applications to both testing and production environments, ensuring seamless transitions from development to production.",
+        "Assisted developers in coding development tasks.",
+        "Integrated and developed APIs."
+      ]
+    },
+    {
+      "name": "Paositra Malagasy",
+      "location": "Antananarivo, Madagascar",
+      "description": "Postal Service company",
+      "position": "Accountant",
+      "url": "https://www.paositramalagasy.mg",
+      "startDate": "2016-08",
+      "endDate": "2017-06",
+      "summary": "Paositra Malagasy is the national postal service of Madagascar. It is responsible for providing postal services and delivery of mail and packages within the country and to international destinations.",
+      "highlights": [
+        "Managed day-to-day financial operations.",
+        "Implemented SAGE Compta to streamline accounting operations, ensuring accurate recordkeeping, generating precise financial reports, and enhancing overall financial management."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Le Wagon",
+      "url": "https://learn.lewagon.com/",
+      "area": "Information Technology",
+      "studyType": "Online training",
+      "startDate": "2022-01-17",
+      "endDate": "2022-01-21",
+      "score": "",
+      "courses": [
+        "Python, Flask, Django",
+        "DevOps: Git, Github, Github Action, Heroku, Docker"
+      ]
+    },
+    {
+      "institution": "Ecole Supérieur Polytechnique of Antananarivo Madagascar",
+      "url": "https://www.polytechnique.mg/",
+      "area": "Information Technology",
+      "studyType": "Master (Incomplete)",
+      "startDate": "2009-02",
+      "endDate": "2010-11",
+      "score": "",
+      "courses": [
+        "Computer Science and Information Systems",
+        "Networks",
+        "Project Management",
+        "Mathematics and Physical Systems",
+        "Economics",
+        "English"
+      ]
+    },
+    {
+      "institution": "Faculty of Sciences, University of Antananarivo Madagascar",
+      "url": "https://www.univ-antananarivo.mg/Physique-et-Applications",
+      "area": "Physics, Energy Science",
+      "studyType": "Master 2 (DEA)",
+      "startDate": "2004-02",
+      "endDate": "2010-11",
+      "score": "BIEN (French scoring)",
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Electronics",
+        "Electricity",
+        "Computer Programming",
+        "Statistical Processing",
+        "Numerical Analysis and Numerical Calculation",
+        "System Modeling",
+        "Analysis and Calculation of Energy Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "React",
+        "Vue",
+        "Python/Django",
+        "Jquery"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Django",
+        "DjangoRest",
+        "FastAPI",
+        "Node",
+        "Next",
+        "Express"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "Postgres",
+        "Mysql",
+        "MS SQL Server"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "Docker, Docker Compose",
+        "Heroku"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English (Full Professional Proficiency)",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "French (Full Professional Proficiency)",
+      "fluency": "Full Professional Proficiency"
+    }
+  ],
+  "meta": { "theme": "elegant" }
+}
